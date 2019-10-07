@@ -1,0 +1,34 @@
+.tiled-gallery .gallery-row{
+    margin: 0;
+}
+.slideshow-window{
+    border-radius: 0!important;
+}
+/*===========
+Override Jetpack Related Posts
+=============*/
+.jp-relatedposts-post-title{
+    font-size: 18px;
+}
+.jp-relatedposts-post-title a{
+    text-decoration: none;
+}
+/*===========
+Override Jetpack Contact form
+=============*/
+.contact-form label,
+.contact-form label.checkbox,
+.contact-form label.radio,
+.wpcf7 form p label,
+.wpcf7 form label,
+.wpcf7 form label span
+{
+    font-weight: 600!important;
+}
+.radio input[type='radio'], .radio-inline input[type='radio'], .checkbox input[type='checkbox'], .checkbox-inline input[type='checkbox']{
+    position: static!important;
+    margin-left: 2px!important;
+}
+.contact-form input[type=checkbox], .contact-form input[type=radio]{
+    display: inline-block;
+}

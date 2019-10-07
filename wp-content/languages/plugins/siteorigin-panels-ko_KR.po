@@ -1,0 +1,1733 @@
+# Copyright (C) 2017 siteorigin-panels
+# This file is distributed under the same license as the siteorigin-panels package.
+msgid ""
+msgstr ""
+"Project-Id-Version: siteorigin-panels\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-30 19:24+0900\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: REDMILK <admin@redmilk.co.kr>\n"
+"Language: ko_KR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: tmp/inc/admin-layouts.php:38, tmp/inc/admin-layouts.php:104
+msgid "Layouts Directory"
+msgstr "레이아웃 디렉토리"
+
+#: tmp/inc/admin-layouts.php:83
+msgid "Theme Defined Layouts"
+msgstr "테마 정의 레이아웃"
+
+#: tmp/inc/admin-layouts.php:154
+msgid "Clone %s"
+msgstr "%s의 복제"
+
+#: tmp/inc/admin-layouts.php:192
+msgid " - Results For:"
+msgstr " - 결과 :"
+
+#: tmp/inc/admin-widget-dialog.php:97, tmp/widgets/widgets.php:164
+msgid "Widgets Bundle"
+msgstr "Widgets Bundle"
+
+#: tmp/inc/admin-widget-dialog.php:112
+msgid "Enable more widgets in the 1{Widgets Bundle settings}."
+msgstr "1 {Widgets Bundle settings}에서 더 많은 위젯을 사용하십시오."
+
+#: tmp/inc/admin-widget-dialog.php:118, tmp/inc/data/widgets-bundle.php:11,
+#: tmp/inc/data/widgets-bundle.php:23, tmp/inc/data/widgets-bundle.php:35,
+#: tmp/inc/data/widgets-bundle.php:47, tmp/inc/data/widgets-bundle.php:59,
+#: tmp/inc/data/widgets-bundle.php:71
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Widgets Bundle"
+
+#: tmp/inc/admin-widget-dialog.php:119
+msgid "Install the 1{Widgets Bundle} to get extra widgets."
+msgstr "추가 위젯을 얻으려면 1 {Widgets Bundle}을 설치하십시오."
+
+#: tmp/inc/admin-widget-dialog.php:127
+msgid "Page Builder Widgets"
+msgstr "Page Builder Widgets"
+
+#: tmp/inc/admin-widget-dialog.php:135
+msgid "You can enable the legacy (PB) widgets in the 1{Page Builder settings}."
+msgstr "1 {Page Builder settings}에서 레거시 (PB) 위젯을 사용할 수 있습니다."
+
+#: tmp/inc/admin-widget-dialog.php:143
+msgid "WordPress Widgets"
+msgstr "워드프레스 위젯"
+
+#: tmp/inc/admin-widget-dialog.php:183, tmp/inc/settings.php:303
+msgid "Recommended Widgets"
+msgstr "추천 위젯"
+
+#: tmp/inc/admin-widgets-bundle.php:19, tmp/inc/admin-widgets-bundle.php:20
+msgid "Install Page Builder Plugin"
+msgstr "Page Builder Plugin 설치"
+
+#: tmp/inc/admin-widgets-bundle.php:77
+msgid "Installing %s"
+msgstr "%s 설치 중"
+
+#: tmp/inc/admin.php:119
+msgid "Support Forum"
+msgstr "지원 포럼"
+
+#: tmp/inc/admin.php:120
+msgid "Newsletter"
+msgstr "뉴스레터"
+
+#: tmp/inc/admin.php:132, tmp/inc/admin.php:453, tmp/inc/admin.php:938,
+#: tmp/inc/admin.php:943, tmp/inc/settings.php:186,
+#: tmp/tpl/js-templates.php:201
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: tmp/inc/admin.php:259
+msgid "All Widgets"
+msgstr "All Widgets"
+
+#: tmp/inc/admin.php:284
+msgid "Missing Widget"
+msgstr "누락 된 위젯"
+
+#: tmp/inc/admin.php:285
+msgid "Page Builder doesn't know about this widget."
+msgstr "페이지 빌더는 이 위젯에 대해 알지 못합니다."
+
+#: tmp/inc/admin.php:289
+msgid "%d seconds"
+msgstr "%d 초"
+
+#: tmp/inc/admin.php:291
+msgid "%d minutes"
+msgstr "%d 분"
+
+#: tmp/inc/admin.php:293
+msgid "%d hours"
+msgstr "%d 시간"
+
+#: tmp/inc/admin.php:296
+msgid "%d second"
+msgstr "%d 초"
+
+#: tmp/inc/admin.php:298
+msgid "%d minute"
+msgstr "%d 분"
+
+#: tmp/inc/admin.php:300
+msgid "%d hour"
+msgstr "%d 시간"
+
+#: tmp/inc/admin.php:303
+msgid "%s before"
+msgstr "%s 이전"
+
+#: tmp/inc/admin.php:304
+msgid "Now"
+msgstr "지금"
+
+#: tmp/inc/admin.php:308
+msgid "Current"
+msgstr "현행"
+
+#: tmp/inc/admin.php:309
+msgid "Original"
+msgstr "원본"
+
+#: tmp/inc/admin.php:310
+msgid "Version restored"
+msgstr "버전 복원 됨"
+
+#: tmp/inc/admin.php:311
+msgid "Converted to editor"
+msgstr "편집기로 변환 됨"
+
+#: tmp/inc/admin.php:315
+msgid "Widget deleted"
+msgstr "위젯이 삭제되었습니다"
+
+#: tmp/inc/admin.php:317
+msgid "Widget added"
+msgstr "위젯이 추가되었습니다"
+
+#: tmp/inc/admin.php:319
+msgid "Widget edited"
+msgstr "위젯 편집"
+
+#: tmp/inc/admin.php:321
+msgid "Widget duplicated"
+msgstr "복제 중복됨"
+
+#: tmp/inc/admin.php:323
+msgid "Widget moved"
+msgstr "위젯 이동"
+
+#: tmp/inc/admin.php:327
+msgid "Row deleted"
+msgstr "행이 삭제되었습니다"
+
+#: tmp/inc/admin.php:329
+msgid "Row added"
+msgstr "행 추가됨"
+
+#: tmp/inc/admin.php:331
+msgid "Row edited"
+msgstr "행 수정 됨"
+
+#: tmp/inc/admin.php:333
+msgid "Row moved"
+msgstr "행 이동 됨"
+
+#: tmp/inc/admin.php:335
+msgid "Row duplicated"
+msgstr "행 중복됨"
+
+#: tmp/inc/admin.php:337
+msgid "Row pasted"
+msgstr "행 붙여넣기 됨"
+
+#: tmp/inc/admin.php:340
+msgid "Cell resized"
+msgstr "셀 크기 조정"
+
+#: tmp/inc/admin.php:343
+msgid "Prebuilt layout loaded"
+msgstr "미리 만들어진 레이아웃로드 됨"
+
+#: tmp/inc/admin.php:347
+msgid "Loading prebuilt layout"
+msgstr "미리 만들어진 레이아웃로드하기"
+
+#: tmp/inc/admin.php:348
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr "이 편집기의 기존 콘텐츠를 Page Builder에 복사 하시겠습니까?"
+
+#: tmp/inc/admin.php:349
+msgid ""
+"Would you like to clear your Page Builder content and revert to using the "
+"standard visual editor?"
+msgstr "페이지 빌더 내용을 지우고 표준 비주얼 편집기를 사용 하시겠습니까?"
+
+#: tmp/inc/admin.php:351
+msgid "Layout Builder Widget"
+msgstr "레이아웃 빌더 위젯"
+
+#: tmp/inc/admin.php:353, tmp/tpl/js-templates.php:105,
+#: tmp/tpl/js-templates.php:424
+msgid "Are you sure?"
+msgstr "정말 진행하시겠습니까?"
+
+#: tmp/inc/admin.php:355
+msgid "%s is ready to insert."
+msgstr "%s을 (를) 삽입 할 준비가 되었습니다."
+
+#: tmp/inc/admin.php:359
+msgid "Add Widget Below"
+msgstr "위젯 추가"
+
+#: tmp/inc/admin.php:360
+msgid "Add Widget to Cell"
+msgstr "셀에 위젯 추가하기"
+
+#: tmp/inc/admin.php:361, tmp/tpl/js-templates.php:228
+msgid "Search Widgets"
+msgstr "검색 위젯"
+
+#: tmp/inc/admin.php:363, tmp/tpl/js-templates.php:17,
+#: tmp/tpl/js-templates.php:19
+msgid "Add Row"
+msgstr "행 추가"
+
+#: tmp/inc/admin.php:364
+msgid "Column"
+msgstr "열"
+
+#: tmp/inc/admin.php:366
+msgid "Cell Actions"
+msgstr "셀 작업"
+
+#: tmp/inc/admin.php:367
+msgid "Paste Widget"
+msgstr "위젯 붙여 넣기"
+
+#: tmp/inc/admin.php:369
+msgid "Widget Actions"
+msgstr "위젯 작업"
+
+#: tmp/inc/admin.php:370
+msgid "Edit Widget"
+msgstr "위젯 편집"
+
+#: tmp/inc/admin.php:371
+msgid "Duplicate Widget"
+msgstr "위젯 복사"
+
+#: tmp/inc/admin.php:372
+msgid "Delete Widget"
+msgstr "위젯 삭제"
+
+#: tmp/inc/admin.php:373
+msgid "Copy Widget"
+msgstr "위젯 복사"
+
+#: tmp/inc/admin.php:374
+msgid "Paste Widget Below"
+msgstr "위젯 붙여 넣기"
+
+#: tmp/inc/admin.php:376
+msgid "Row Actions"
+msgstr "행 작업"
+
+#: tmp/inc/admin.php:377, tmp/tpl/js-templates.php:103
+msgid "Edit Row"
+msgstr "행 편집"
+
+#: tmp/inc/admin.php:378, tmp/tpl/js-templates.php:104
+msgid "Duplicate Row"
+msgstr "행 복제하기"
+
+#: tmp/inc/admin.php:379, tmp/tpl/js-templates.php:105
+msgid "Delete Row"
+msgstr "행 삭제"
+
+#: tmp/inc/admin.php:380
+msgid "Copy Row"
+msgstr "행 복사"
+
+#: tmp/inc/admin.php:381
+msgid "Paste Row"
+msgstr "핼 붙여넣기"
+
+#: tmp/inc/admin.php:383
+msgid "Draft"
+msgstr "임시 글"
+
+#: tmp/inc/admin.php:384
+msgid "Untitled"
+msgstr "제목 없음"
+
+#: tmp/inc/admin.php:386
+msgid "New Row"
+msgstr "새 행"
+
+#: tmp/inc/admin.php:387, tmp/inc/styles.php:173, tmp/tpl/js-templates.php:68
+msgid "Row"
+msgstr "행"
+
+#: tmp/inc/admin.php:395
+msgid "Page Builder layouts"
+msgstr "페이지 빌더 레이아웃"
+
+#: tmp/inc/admin.php:396
+msgid "Error uploading or importing file."
+msgstr "파일 업로드 또는 가져 오기 중 오류가 발생했습니다."
+
+#: tmp/inc/admin.php:534, tmp/inc/home.php:26
+msgid "Home Page"
+msgstr "홈페이지"
+
+#: tmp/inc/admin.php:628
+msgid "Untitled Widget"
+msgstr "제목없는 위젯"
+
+#: tmp/inc/admin.php:793
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr "위젯 2 {%2$s}을 사용하려면 1 {%1$s}을 (를) 설치해야합니다."
+
+#: tmp/inc/admin.php:799
+msgid ""
+"Save and reload this page to start using the widget after you've installed "
+"it."
+msgstr "위젯을 설치 한 후 사용하려면 이 페이지를 저장하고 다시 로드 하십시오."
+
+#: tmp/inc/admin.php:815
+msgid ""
+"The widget 1{%1$s} is not available. Please try locate and install the "
+"missing plugin. Post on the 2{support forums} if you need help."
+msgstr ""
+"위젯 1 {%1$s}을 (를) 사용할 수 없습니다. 누락 된 플러그인을 찾아서 설치하십시"
+"오. 도움이 필요한 경우 2 {support forums}에 게시하십시오."
+
+#: tmp/inc/admin.php:955
+msgid "%s Widgets"
+msgstr "%s 위젯"
+
+#: tmp/inc/admin.php:1001
+msgid "12 Page Builder Tips"
+msgstr "12 페이지 빌더 팁"
+
+#: tmp/inc/admin.php:1004
+msgid ""
+"Sign up to our newsletter and we'll send you this free Page Builder video "
+"course."
+msgstr "뉴스 레터에 가입하면 무료로 페이지 빌더 비디오 코스를 보내드립니다."
+
+#: tmp/inc/admin.php:1005
+msgid "12 tips that'll help you get the most out of Page Builder."
+msgstr "페이지 빌더를 최대한 활용하는데 도움이되는 12 가지 팁."
+
+#: tmp/inc/admin.php:1006
+msgid "Watch the video to find out more, then sign up below to get started."
+msgstr "동영상을 보시고 더 자세한 정보를 얻으려면 아래에 서명하십시오."
+
+#: tmp/inc/admin.php:1007, tmp/inc/admin.php:1017
+msgid "We'll email you a confirmation. You can unsubscribe at any time."
+msgstr "확인 이메일을 보내 드리겠습니다. 언제든지 탈퇴하실 수 있습니다."
+
+#: tmp/inc/admin.php:1011
+msgid "Free Page Builder Addons"
+msgstr "무료 페이지 빌더 애드온"
+
+#: tmp/inc/admin.php:1014
+msgid ""
+"The free animations addon allows you to add beautiful animations to Page "
+"Builder elements."
+msgstr ""
+"무료 애니메이션 추가 기능을 사용하면 아름다운 애니메이션을 페이지 빌더 요소"
+"에 추가 할 수 있습니다."
+
+#: tmp/inc/admin.php:1015
+msgid "Sign up to our newsletter and we'll send you the addon as a free gift."
+msgstr "우리의 뉴스레터에 등록을하면 우리는 선물로 무료 addon를 보낼 것입니다."
+
+#: tmp/inc/admin.php:1016
+msgid ""
+"Plus, we'll send you even more powerful addons, for as long as you're "
+"subscribed."
+msgstr "또한 구독하는 동안 더 강력한 애드온을 보내드립니다."
+
+#: tmp/inc/admin.php:1032
+msgid "Watch Intro Video"
+msgstr "소개 비디오보기"
+
+#: tmp/inc/admin.php:1033
+msgid "Loaded from Vimeo Servers"
+msgstr "Vimeo 서버에서로드 됨"
+
+#: tmp/inc/admin.php:1034
+msgid "Please enter a valid email address."
+msgstr "유효한 이메일 주소를 입력해주세요."
+
+#: tmp/inc/admin.php:1036
+msgid "Your Name"
+msgstr "당신의 이름"
+
+#: tmp/inc/admin.php:1037
+msgid "Your Email"
+msgstr "Your Email"
+
+#: tmp/inc/admin.php:1038
+msgid "Sign Up"
+msgstr "가입하기"
+
+#: tmp/inc/admin.php:1039, tmp/tpl/js-templates.php:240
+msgid "Close"
+msgstr "닫기"
+
+#: tmp/inc/data/widgets-bundle.php:7
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin 편집기"
+
+#: tmp/inc/data/widgets-bundle.php:8
+msgid "A rich text editor"
+msgstr "서식있는 텍스트 편집기"
+
+#: tmp/inc/data/widgets-bundle.php:19
+msgid "SiteOrigin Button"
+msgstr "SiteOrigin 버튼"
+
+#: tmp/inc/data/widgets-bundle.php:20, tmp/widgets/widgets/button/button.php:8
+msgid "A simple button"
+msgstr "심플 버튼"
+
+#: tmp/inc/data/widgets-bundle.php:31
+msgid "SiteOrigin Image"
+msgstr "SiteOrigin 이미지"
+
+#: tmp/inc/data/widgets-bundle.php:32
+msgid "Choose images from your media library."
+msgstr "미디어 라이브러리에서 이미지를 선택하십시오."
+
+#: tmp/inc/data/widgets-bundle.php:43
+msgid "SiteOrigin Slider"
+msgstr "SiteOrigin 슬라이더"
+
+#: tmp/inc/data/widgets-bundle.php:44
+msgid "A basic slider widget."
+msgstr "기본 슬라이더 위젯."
+
+#: tmp/inc/data/widgets-bundle.php:55
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin 기능"
+
+#: tmp/inc/data/widgets-bundle.php:56
+msgid "Display site features as a collection of icons."
+msgstr "사이트 기능을 아이콘 모음으로 표시합니다."
+
+#: tmp/inc/data/widgets-bundle.php:67
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin 포스트 캐러젤"
+
+#: tmp/inc/data/widgets-bundle.php:68
+msgid "Display your posts as a carousel."
+msgstr "포스트를 캐러젤로 표시."
+
+#: tmp/inc/home.php:25
+msgid "Custom Home Page Builder"
+msgstr "사용자 정의 홈 페이지 빌더"
+
+#: tmp/inc/revisions.php:78
+msgid "Page Builder Content"
+msgstr "페이지 빌더 내용"
+
+#: tmp/inc/settings.php:186, tmp/settings/tpl/settings.php:9
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin 페이지 빌더"
+
+#: tmp/inc/settings.php:213
+msgid "Page Builder Settings"
+msgstr "페이지 빌더 설정"
+
+#: tmp/inc/settings.php:229
+msgid "General"
+msgstr "일반"
+
+#: tmp/inc/settings.php:235
+msgid "Post Types"
+msgstr "게시물 유형"
+
+#: tmp/inc/settings.php:237
+msgid "The post types to use Page Builder on."
+msgstr "Page Builder를 사용할 게시 유형입니다."
+
+#: tmp/inc/settings.php:242
+msgid "Live Editor Quick Link"
+msgstr "라이브 편집기 빠른 링크"
+
+#: tmp/inc/settings.php:243
+msgid "Display a Live Editor button in the admin bar."
+msgstr "관리자 바에서 라이브 편집기 단추를 표시 합니다."
+
+#: tmp/inc/settings.php:248
+msgid "Display Widget Count"
+msgstr "디스플레이 위젯 수"
+
+#: tmp/inc/settings.php:249
+msgid ""
+"Display a widget count in the admin lists of posts/pages where you're using "
+"Page Builder."
+msgstr ""
+"게시물/페이지 페이지 작성기를 사용 하 고 있는의 관리자 목록에서 위젯의 개수"
+"를 표시 합니다."
+
+#: tmp/inc/settings.php:254
+msgid "Limit Parallax Motion"
+msgstr "제한 시차 모션"
+
+#: tmp/inc/settings.php:255
+msgid ""
+"How many pixels of scrolling result in a single pixel of parallax motion. 0 "
+"means automatic. Lower values give more noticeable effect."
+msgstr ""
+"한 픽셀의 시차 이동에서 얼마나 많은 픽셀 스크롤이 발생합니다. 0은 자동을 의미"
+"합니다. 값이 낮을수록 눈에 띄는 효과가 나타납니다."
+
+#: tmp/inc/settings.php:260
+msgid "Sidebars Emulator"
+msgstr "사이드바 에뮬레이터"
+
+#: tmp/inc/settings.php:261
+msgid ""
+"Page Builder will create an emulated sidebar, that contains all widgets in "
+"the page."
+msgstr ""
+"페이지 작성기 페이지에서 모든 도구를 포함 하는 에뮬레이트된 사이드바를 만들 "
+"것입니다."
+
+#: tmp/inc/settings.php:266
+msgid "Page Builder Learning"
+msgstr "Page Builder 학습"
+
+#: tmp/inc/settings.php:267
+msgid "Display buttons for Page Builder learning."
+msgstr "Page Builder 학습을 위한 표시 버튼."
+
+#: tmp/inc/settings.php:272
+msgid "Default To Page Builder Interface"
+msgstr "Page Builder 인터페이스 기본값"
+
+#: tmp/inc/settings.php:273
+msgid ""
+"New posts/pages that you create will start with the Page Builder loaded."
+msgstr "작성한 새 게시물 / 페이지는 페이지 빌더가로드 된 상태에서 시작됩니다."
+
+#: tmp/inc/settings.php:279
+msgid "Widgets"
+msgstr "위젯"
+
+#: tmp/inc/settings.php:285
+msgid "Widget Title HTML"
+msgstr "위젯 제목 HTML"
+
+#: tmp/inc/settings.php:286
+msgid ""
+"The HTML used for widget titles. {{title}} is replaced with the widget title."
+msgstr "위젯 제목에 사용되는 HTML입니다. {{title}}이 위젯 제목으로 바뀝니다."
+
+#: tmp/inc/settings.php:291
+msgid "Add Widget Class"
+msgstr "위젯 클래스 추가"
+
+#: tmp/inc/settings.php:292
+msgid ""
+"Add the widget class to Page Builder widgets. Disable this if you're "
+"experiencing conflicts."
+msgstr ""
+"페이지 작성기 위젯 위젯 클래스를 추가 합니다. 충돌이 발생 하는 경우이 해제 합"
+"니다."
+
+#: tmp/inc/settings.php:297
+msgid "Legacy Bundled Widgets"
+msgstr "레거시 번들 위젯"
+
+#: tmp/inc/settings.php:298
+msgid "Load legacy widgets from Page Builder 1."
+msgstr "Page Builder 1에서 기존 위젯로드."
+
+#: tmp/inc/settings.php:304
+msgid "Display recommend widgets in Page Builder add widget dialog."
+msgstr "페이지 빌더에서 위젯을 표시하려면 위젯 대화 상자를 추가하십시오."
+
+#: tmp/inc/settings.php:310, tmp/inc/styles-admin.php:78
+msgid "Layout"
+msgstr "레이아웃"
+
+#: tmp/inc/settings.php:318
+msgid "Responsive Layout"
+msgstr "반응형 레이아웃"
+
+#: tmp/inc/settings.php:319
+msgid "Collapse widgets, rows and columns on mobile devices."
+msgstr "모바일 장치에서 위젯, 행 및 열 축소."
+
+#: tmp/inc/settings.php:324
+msgid "Use Tablet Layout"
+msgstr "태블릿 레이아웃 사용"
+
+#: tmp/inc/settings.php:325
+msgid "Collapses columns differently on tablet devices."
+msgstr "태블릿 장치에서 열을 다르게 축소합니다."
+
+#: tmp/inc/settings.php:331
+msgid "Detect older browsers"
+msgstr "이전 브라우저 감지"
+
+#: tmp/inc/settings.php:332
+msgid "Never"
+msgstr "안함"
+
+#: tmp/inc/settings.php:333
+msgid "Always"
+msgstr "항상"
+
+#: tmp/inc/settings.php:335
+msgid "Use Legacy Layout Engine"
+msgstr "레거시 레이아웃 엔진을 사용"
+
+#: tmp/inc/settings.php:336
+msgid ""
+"The CSS and HTML uses floats instead of flexbox for compatibility with very "
+"old browsers."
+msgstr ""
+"CSS와 HTML은 매우 오래된 브라우저와의 호환성을 위해 flexbox 대신 float를 사용"
+"합니다."
+
+#: tmp/inc/settings.php:342
+msgid "Tablet Width"
+msgstr "태블릿 폭"
+
+#: tmp/inc/settings.php:343
+msgid "Device width, in pixels, to collapse into a tablet view ."
+msgstr "태블릿보기로 축소 할 기기의 너비 (픽셀 단위)입니다 ."
+
+#: tmp/inc/settings.php:349
+msgid "Mobile Width"
+msgstr "모바일 폭"
+
+#: tmp/inc/settings.php:350
+msgid "Device width, in pixels, to collapse into a mobile view ."
+msgstr "모바일보기로 축소 할 기기 너비 (픽셀)입니다."
+
+#: tmp/inc/settings.php:356
+msgid "Row/Widget Bottom Margin"
+msgstr "행/위젯 아래쪽 여백"
+
+#: tmp/inc/settings.php:357
+msgid "Default margin below rows and widgets."
+msgstr "행과 위젯 아래 기본 여백입니다."
+
+#: tmp/inc/settings.php:362
+msgid "Last Row With Margin"
+msgstr "마지막 행 여백"
+
+#: tmp/inc/settings.php:363
+msgid "Allow margin in last row."
+msgstr "마지막 행에서 마진을 허용 합니다."
+
+#: tmp/inc/settings.php:369
+msgid "Row Gutter"
+msgstr "행 Gutter"
+
+#: tmp/inc/settings.php:370
+msgid "Default spacing between columns in each row."
+msgstr "각 행에 있는 열 사이의 간격 기본."
+
+#: tmp/inc/settings.php:376
+msgid "Full Width Container"
+msgstr "전체 너비 컨테이너"
+
+#: tmp/inc/settings.php:377
+msgid "The container used for the full width layout."
+msgstr "전체 너비 레이아웃에 사용되는 컨테이너입니다."
+
+#: tmp/inc/settings.php:384
+msgid "Content"
+msgstr "Content"
+
+#: tmp/inc/settings.php:390
+msgid "Copy Content"
+msgstr "콘텐츠를 복사"
+
+#: tmp/inc/settings.php:391
+msgid "Copy content from Page Builder to post content."
+msgstr "Copy content from Page Builder to post content."
+
+#: tmp/inc/settings.php:396
+msgid "Copy Styles"
+msgstr "스타일 복사"
+
+#: tmp/inc/settings.php:397
+msgid ""
+"Include styles into your Post Content. This keeps page layouts, even when "
+"Page Builder is deactivated."
+msgstr ""
+"귀하의 게시물 내용에 스타일을 포함 합니다. 이 페이지 작성기 비활성화 하는 경"
+"우에 페이지 레이아웃을 유지 합니다."
+
+#: tmp/inc/settings.php:402
+msgid "Content Cache"
+msgstr "콘텐츠 캐시"
+
+#: tmp/inc/settings.php:403
+msgid "Cache CSS and HTML generated by Page Builder."
+msgstr "Page Builder 에서 생성 된 CSS 및 HTML을 캐시합니다."
+
+#: tmp/inc/settings.php:450, tmp/inc/styles-admin.php:248
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: tmp/inc/styles-admin.php:36
+msgid "Row Styles"
+msgstr "행 스타일"
+
+#: tmp/inc/styles-admin.php:41
+msgid "Cell%s Styles"
+msgstr "%s의 셀 스타일"
+
+#: tmp/inc/styles-admin.php:45
+msgid "Widget Styles"
+msgstr "위젯 스타일"
+
+#: tmp/inc/styles-admin.php:74
+msgid "Attributes"
+msgstr "속성"
+
+#: tmp/inc/styles-admin.php:82
+msgid "Design"
+msgstr "디자인"
+
+#: tmp/inc/styles-admin.php:92
+msgid "Theme"
+msgstr "테마"
+
+#: tmp/inc/styles-admin.php:174, tmp/inc/styles.php:241, tmp/inc/styles.php:269
+msgid "Top"
+msgstr "상단"
+
+#: tmp/inc/styles-admin.php:178, tmp/widgets/widgets/button/button.php:30
+msgid "Right"
+msgstr "오른쪽"
+
+#: tmp/inc/styles-admin.php:182, tmp/inc/styles.php:243, tmp/inc/styles.php:271
+msgid "Bottom"
+msgstr "하단"
+
+#: tmp/inc/styles-admin.php:186, tmp/widgets/widgets/button/button.php:29
+msgid "Left"
+msgstr "왼쪽"
+
+#: tmp/inc/styles-admin.php:228
+msgid "Select Image"
+msgstr "이미지 선택"
+
+#: tmp/inc/styles-admin.php:233
+msgid "Remove"
+msgstr "제거"
+
+#: tmp/inc/styles.php:68
+msgid "%s ID"
+msgstr "%s ID"
+
+#: tmp/inc/styles.php:71
+msgid "A custom ID used for this %s."
+msgstr "이 %s에 사용 된 사용자 정의 ID입니다."
+
+#: tmp/inc/styles.php:76
+msgid "%s Class"
+msgstr "%s 클래스"
+
+#: tmp/inc/styles.php:79
+msgid "A CSS class"
+msgstr "CSS 클래스"
+
+#: tmp/inc/styles.php:84
+msgid "CSS Styles"
+msgstr "CSS 스타일"
+
+#: tmp/inc/styles.php:87
+msgid "One style attribute per line."
+msgstr "한 줄에 하나의 스타일 속성이 있습니다."
+
+#: tmp/inc/styles.php:92
+msgid "Mobile CSS Styles"
+msgstr "모바일 CSS 스타일"
+
+#: tmp/inc/styles.php:95
+msgid "CSS applied when in mobile view."
+msgstr "모바일 보기에서 적용 하는 CSS."
+
+#: tmp/inc/styles.php:102
+msgid "Padding"
+msgstr "패딩"
+
+#: tmp/inc/styles.php:105
+msgid "Padding around the entire %s."
+msgstr "%s의 전체 주위 패딩."
+
+#: tmp/inc/styles.php:111
+msgid "Mobile Padding"
+msgstr "모바일 패딩"
+
+#: tmp/inc/styles.php:114
+msgid "Padding when on mobile devices."
+msgstr "모바일 기기에서의 패딩."
+
+#: tmp/inc/styles.php:122
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: tmp/inc/styles.php:125
+msgid "Background color of the %s."
+msgstr "%s 배경색입니다."
+
+#: tmp/inc/styles.php:130
+msgid "Background Image"
+msgstr "배경 이미지"
+
+#: tmp/inc/styles.php:133
+msgid "Background image of the %s."
+msgstr "%s 배경 이미지입니다."
+
+#: tmp/inc/styles.php:138
+msgid "Background Image Display"
+msgstr "배경 이미지 표시"
+
+#: tmp/inc/styles.php:142
+msgid "Tiled Image"
+msgstr "타일 이미지"
+
+#: tmp/inc/styles.php:143
+msgid "Cover"
+msgstr "헤드 레이아우"
+
+#: tmp/inc/styles.php:144
+msgid "Centered, with original size"
+msgstr "원래 크기와 중심"
+
+#: tmp/inc/styles.php:145
+msgid "Fixed"
+msgstr "고정"
+
+#: tmp/inc/styles.php:146
+msgid "Parallax"
+msgstr "패럴랙스"
+
+#: tmp/inc/styles.php:147
+msgid "Parallax (Original Size)"
+msgstr "패럴랙스 (원래 크기)"
+
+#: tmp/inc/styles.php:149
+msgid "How the background image is displayed."
+msgstr "배경 이미지가 표시되는 방법."
+
+#: tmp/inc/styles.php:154
+msgid "Border Color"
+msgstr "테두리 색상"
+
+#: tmp/inc/styles.php:157
+msgid "Border color of the %s."
+msgstr "%s 테두리 색입니다."
+
+#: tmp/inc/styles.php:176
+msgid "Cell Class"
+msgstr "셀 클래스"
+
+#: tmp/inc/styles.php:179
+msgid "Class added to all cells in this row."
+msgstr "이 행의 모든 ​​셀에 클래스가 추가."
+
+#: tmp/inc/styles.php:186
+msgid "Bottom Margin"
+msgstr "아래쪽 여백"
+
+#: tmp/inc/styles.php:189
+msgid "Space below the row. Default is %spx."
+msgstr "행 아래 공간입니다. 기본값은 %spx."
+
+#: tmp/inc/styles.php:194
+msgid "Gutter"
+msgstr "여백"
+
+#: tmp/inc/styles.php:197
+msgid "Amount of space between cells. Default is %spx."
+msgstr "셀 사이의 여백 크기입니다. 기본값은 %spx."
+
+#: tmp/inc/styles.php:202
+msgid "Row Layout"
+msgstr "행 레이아웃"
+
+#: tmp/inc/styles.php:206, tmp/inc/styles.php:218
+msgid "Standard"
+msgstr "표준"
+
+#: tmp/inc/styles.php:207
+msgid "Full Width"
+msgstr "전체 폭"
+
+#: tmp/inc/styles.php:208
+msgid "Full Width Stretched"
+msgstr "전체 폭 늘어"
+
+#: tmp/inc/styles.php:214
+msgid "Collapse Behaviour"
+msgstr "축소 동작"
+
+#: tmp/inc/styles.php:219
+msgid "No Collapse"
+msgstr "축소하지 않음"
+
+#: tmp/inc/styles.php:225
+msgid "Collapse Order"
+msgstr "주문 축소"
+
+#: tmp/inc/styles.php:229, tmp/widgets/basic.php:514,
+#: tmp/widgets/widgets.php:635, tmp/widgets/widgets.php:757
+msgid "Default"
+msgstr "기본"
+
+#: tmp/inc/styles.php:230
+msgid "Left on Top"
+msgstr "왼쪽 상단"
+
+#: tmp/inc/styles.php:231
+msgid "Right on Top"
+msgstr "오른쪽 상단"
+
+#: tmp/inc/styles.php:237
+msgid "Cell Vertical Alignment"
+msgstr "셀 수직 정렬"
+
+#: tmp/inc/styles.php:242, tmp/inc/styles.php:270,
+#: tmp/widgets/widgets/button/button.php:31
+msgid "Center"
+msgstr "가운데"
+
+#: tmp/inc/styles.php:244, tmp/inc/styles.php:272
+msgid "Stretch"
+msgstr "늘리기"
+
+#: tmp/inc/styles.php:261
+msgid "Cell"
+msgstr "셀"
+
+#: tmp/inc/styles.php:264
+msgid "Vertical Alignment"
+msgstr "수직 정렬"
+
+#: tmp/inc/styles.php:268
+msgid "Use row setting"
+msgstr "행 설정 사용"
+
+#: tmp/inc/styles.php:278, tmp/inc/styles.php:309
+msgid "Font Color"
+msgstr "폰트 색"
+
+#: tmp/inc/styles.php:281
+msgid "Color of text inside this cell."
+msgstr "이 셀 내부 텍스트 색입니다."
+
+#: tmp/inc/styles.php:286, tmp/inc/styles.php:317
+msgid "Links Color"
+msgstr "링크 색상"
+
+#: tmp/inc/styles.php:289
+msgid "Color of links inside this cell."
+msgstr "이 셀 내부 링크의 색입니다."
+
+#: tmp/inc/styles.php:304, tmp/tpl/js-templates.php:67
+msgid "Widget"
+msgstr "위젯"
+
+#: tmp/inc/styles.php:312
+msgid "Color of text inside this widget."
+msgstr "이 위젯 안에 텍스트 색입니다."
+
+#: tmp/inc/styles.php:320
+msgid "Color of links inside this widget."
+msgstr "이 위젯 안에 링크의 색입니다."
+
+#: tmp/settings/tpl/help.php:6
+msgid ""
+"Please read the 1{settings guide} of the Page Builder documentation for help."
+msgstr ""
+"1{settings guide}에 대한 도움말 Page Builder 설명서를 읽어 보시기 바랍니다."
+
+#: tmp/settings/tpl/settings.php:12
+msgid "Search Settings"
+msgstr "검색 설정"
+
+#: tmp/settings/tpl/settings.php:29
+msgid "Settings Saved"
+msgstr "설정이 저장되었습니다"
+
+#: tmp/settings/tpl/settings.php:78
+msgid "Save Settings"
+msgstr "설정 저장"
+
+#: tmp/siteorigin-panels.php:297
+msgid "Read More"
+msgstr "더 보기"
+
+#: tmp/siteorigin-panels.php:380
+msgid "Edit Home Page"
+msgstr "홈 페이지를 편집"
+
+#: tmp/siteorigin-panels.php:400, tmp/tpl/js-templates.php:34,
+#: tmp/tpl/js-templates.php:36
+msgid "Live Editor"
+msgstr "라이브 편집기"
+
+#: tmp/tpl/admin-home-page.php:21
+msgid "On"
+msgstr "ON"
+
+#: tmp/tpl/admin-home-page.php:21
+msgid "Off"
+msgstr "끄기"
+
+#: tmp/tpl/admin-home-page.php:25
+msgid "Custom Home Page"
+msgstr "사용자 정의 홈 페이지"
+
+#: tmp/tpl/admin-home-page.php:41
+msgid "Home page updated. 1{View page}."
+msgstr "홈 페이지가 업데이트되었습니다. 1 {View page}."
+
+#: tmp/tpl/admin-home-page.php:60
+msgid "Save Home Page"
+msgstr "홈 페이지를 저장"
+
+#: tmp/tpl/admin-home-page.php:64
+msgid "This interface requires Javascript"
+msgstr "이 인터페이스는 자바 스크립트가 필요 합니다"
+
+#: tmp/tpl/help.php:2
+msgid ""
+"You can use SiteOrigin Page Builder to create home and sub pages, filled "
+"your own widgets."
+msgstr ""
+"SiteOrigin Page Builder를 사용하여 자신의 위젯을 채운 홈 및 하위 페이지를 만"
+"들 수 있습니다."
+
+#: tmp/tpl/help.php:3
+msgid "The page layouts are responsive and fully customizable."
+msgstr "페이지 레이아웃은 반응적이고 완벽하게 사용자 정의 할 수 있습니다."
+
+#: tmp/tpl/help.php:18
+msgid ""
+"Read the 1{full documentation} on SiteOrigin. Ask a question on our "
+"2{support forum} if you need help and sign up to 3{our newsletter} to stay "
+"up to date with future developments."
+msgstr ""
+"SiteOrigin의 1 {full documentation}를 읽으십시오. 도움이 필요한 경우 "
+"2{support forum}에 질문하고 향후 개발에 대한 최신 정보를 얻으려면 3{our "
+"newsletter} 에 등록하십시오."
+
+#: tmp/tpl/js-templates.php:12, tmp/tpl/js-templates.php:14
+msgid "Add Widget"
+msgstr "위젯 추가"
+
+#: tmp/tpl/js-templates.php:22
+msgid "Prebuilt Layouts"
+msgstr "미리 만들어진 레이아웃"
+
+#: tmp/tpl/js-templates.php:24
+msgid "Layouts"
+msgstr "레이아웃"
+
+#: tmp/tpl/js-templates.php:29
+msgid "Edit History"
+msgstr "수정 기록"
+
+#: tmp/tpl/js-templates.php:31
+msgid "History"
+msgstr "기로"
+
+#: tmp/tpl/js-templates.php:42
+msgid "Page Builder Addons"
+msgstr "페이지 빌더 추가 기능"
+
+#: tmp/tpl/js-templates.php:44
+msgid "Addons"
+msgstr "추가기능"
+
+#: tmp/tpl/js-templates.php:47
+msgid "Learn Page Builder"
+msgstr "페이지 빌더 배우기"
+
+#: tmp/tpl/js-templates.php:49
+msgid "Learn"
+msgstr "학습"
+
+#: tmp/tpl/js-templates.php:53
+msgid "Revert to Editor"
+msgstr "편집기로 돌아가기"
+
+#: tmp/tpl/js-templates.php:66
+msgid "Add a %s, %s or %s to get started. Read our %s if you need help."
+msgstr ""
+"시작하려면 %s, %s 또는 %s을 (를) 추가하십시오. 도움이 필요하면 %s을 읽어보십"
+"시오."
+
+#: tmp/tpl/js-templates.php:69
+msgid "Prebuilt Layout"
+msgstr "미리 만들어진 레이아웃"
+
+#: tmp/tpl/js-templates.php:70
+msgid "documentation"
+msgstr "문서화"
+
+#: tmp/tpl/js-templates.php:77
+msgid "Pro Tip"
+msgstr "프로 팁"
+
+#: tmp/tpl/js-templates.php:79
+msgid "12 tips every Page Builder user should know."
+msgstr "페이지 빌더를 최대한 활용하는데 도움이되는 12 가지 팁."
+
+#: tmp/tpl/js-templates.php:149
+msgid "Edit"
+msgstr "편집"
+
+#: tmp/tpl/js-templates.php:150, tmp/tpl/js-templates.php:272,
+#: tmp/tpl/js-templates.php:357
+msgid "Duplicate"
+msgstr "복사"
+
+#: tmp/tpl/js-templates.php:151, tmp/tpl/js-templates.php:271,
+#: tmp/tpl/js-templates.php:356
+msgid "Delete"
+msgstr "삭제"
+
+#: tmp/tpl/js-templates.php:210, tmp/tpl/js-templates.php:275,
+#: tmp/tpl/js-templates.php:364, tmp/tpl/js-templates.php:556
+msgid "Done"
+msgstr "완료"
+
+#: tmp/tpl/js-templates.php:224
+msgid "Add New Widget %s"
+msgstr "새로운 위젯 %s 추가"
+
+#: tmp/tpl/js-templates.php:325
+msgid "Left to Right"
+msgstr "왼쪽에서 오른쪽"
+
+#: tmp/tpl/js-templates.php:326
+msgid "Right to Left"
+msgstr "오른쪽에서 왼쪽으로"
+
+#: tmp/tpl/js-templates.php:337
+msgid "1{Set row layout}: %1$s columns with a ratio of %2$s going from %3$s"
+msgstr "1 {Set row layout} : %3$s에서 %2$s 비율의 %1$s 열"
+
+#: tmp/tpl/js-templates.php:343
+msgid "Set"
+msgstr "설정"
+
+#: tmp/tpl/js-templates.php:362, tmp/tpl/js-templates.php:418
+msgid "Insert"
+msgstr "삽입"
+
+#: tmp/tpl/js-templates.php:382
+msgid "Page Builder Layouts"
+msgstr "Page Builder 레이아웃"
+
+#: tmp/tpl/js-templates.php:386
+msgid "Search"
+msgstr "검색"
+
+#: tmp/tpl/js-templates.php:390
+msgid "Theme Defined"
+msgstr "테마 정의"
+
+#: tmp/tpl/js-templates.php:399
+msgid "Import/Export"
+msgstr "가져오기/내보내기"
+
+#: tmp/tpl/js-templates.php:406
+msgid "Clone: %s"
+msgstr "%s의 복제"
+
+#: tmp/tpl/js-templates.php:422
+msgid "Insert after"
+msgstr "뒤에 삽입"
+
+#: tmp/tpl/js-templates.php:423
+msgid "Insert before"
+msgstr "앞에 삽입"
+
+#: tmp/tpl/js-templates.php:424
+msgid "Replace current"
+msgstr "Replace current"
+
+#: tmp/tpl/js-templates.php:435
+msgid "Do you want to browse the Prebuilt Layouts directory?"
+msgstr "미리 만들어진 레이아웃 디렉토리를 검색 하시겠습니까?"
+
+#: tmp/tpl/js-templates.php:436
+msgid "Enable"
+msgstr "활성화"
+
+#: tmp/tpl/js-templates.php:449
+msgid "Your search didn't return any results"
+msgstr "검색 결과 반환 하지 않았습니다"
+
+#: tmp/tpl/js-templates.php:477
+msgid "Previous"
+msgstr "이전"
+
+#: tmp/tpl/js-templates.php:478
+msgid "Next"
+msgstr "다음"
+
+#: tmp/tpl/js-templates.php:488
+msgid "Drop import file here"
+msgstr "파일을 여기에 드롭해 주세요"
+
+#: tmp/tpl/js-templates.php:489
+msgid "Or"
+msgstr "또는"
+
+#: tmp/tpl/js-templates.php:492
+msgid "Select Import File"
+msgstr "가져오기 파일 선택"
+
+#: tmp/tpl/js-templates.php:506
+msgid "Download Layout"
+msgstr "레이아웃을 다운로드"
+
+#: tmp/tpl/js-templates.php:517
+msgid "Page Builder Change History"
+msgstr "Page Builder 변경 기록"
+
+#: tmp/tpl/js-templates.php:532
+msgid "Restore Version"
+msgstr "버전 복원"
+
+#: tmp/tpl/js-templates.php:550, tmp/tpl/js-templates.php:551
+msgid "Collapse"
+msgstr "축소"
+
+#: tmp/tpl/js-templates.php:550
+msgid "Expand"
+msgstr "확대"
+
+#: tmp/tpl/js-templates.php:558
+msgid "Toggle desktop mode"
+msgstr "바탕 화면 모드 전환"
+
+#: tmp/tpl/js-templates.php:561
+msgid "Toggle tablet mode"
+msgstr "태블릿 모드 토글"
+
+#: tmp/tpl/js-templates.php:564
+msgid "Toggle mobile mode"
+msgstr "모바일 모드 토글"
+
+#: tmp/tpl/js-templates.php:603
+msgid "No Results"
+msgstr "찾을 수 없습니다"
+
+#: tmp/widgets/basic.php:13
+msgid "Layout Builder"
+msgstr "레이아웃 빌더"
+
+#: tmp/widgets/basic.php:15
+msgid "A complete SiteOrigin Page Builder layout as a widget."
+msgstr "완벽한 SiteOrigin Page Builder 레이아웃입니다."
+
+#: tmp/widgets/basic.php:94
+msgid "Open Builder"
+msgstr "오픈 빌더"
+
+#: tmp/widgets/basic.php:130
+msgid "Post Content"
+msgstr "글 내용"
+
+#: tmp/widgets/basic.php:132
+msgid "Displays content from the current post."
+msgstr "현재 게시물에서 콘텐츠를 표시합니다."
+
+#: tmp/widgets/basic.php:178, tmp/widgets/basic.php:488,
+#: tmp/widgets/widgets.php:608, tmp/widgets/widgets.php:783
+msgid "None"
+msgstr "없음"
+
+#: tmp/widgets/basic.php:179, tmp/widgets/basic.php:416,
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:15,
+#: tmp/widgets/widgets/list/list.php:15,
+#: tmp/widgets/widgets/price-box/price-box.php:15
+msgid "Title"
+msgstr "제목"
+
+#: tmp/widgets/basic.php:180
+msgid "Featured Image"
+msgstr "대표 이미지"
+
+#: tmp/widgets/basic.php:185
+msgid "Display Content"
+msgstr "콘텐츠를 표시"
+
+#: tmp/widgets/basic.php:205
+msgid "Post Loop"
+msgstr "게시물 루프"
+
+#: tmp/widgets/basic.php:207
+msgid "Displays a post loop."
+msgstr "게시물 루프를 표시합니다."
+
+#: tmp/widgets/basic.php:410
+msgid "Your theme doesn't have any post loops."
+msgstr "테마에 포스트 루프가 없습니다."
+
+#: tmp/widgets/basic.php:420
+msgid "Template"
+msgstr "템플릿"
+
+#: tmp/widgets/basic.php:436
+msgid "More Link"
+msgstr "더 많은 링크"
+
+#: tmp/widgets/basic.php:438
+msgid "If the template supports it, cut posts and display the more link."
+msgstr "템플릿이 지원하는 경우 게시물을 잘라내어 더 많은 링크를 표시하십시오."
+
+#: tmp/widgets/basic.php:472, tmp/widgets/widgets.php:594
+msgid "Post Type"
+msgstr "포스트 타입"
+
+#: tmp/widgets/basic.php:481, tmp/widgets/widgets.php:601
+msgid "Posts Per Page"
+msgstr "페이지 당 포스트 수"
+
+#: tmp/widgets/basic.php:486, tmp/widgets/widgets.php:606
+msgid "Order By"
+msgstr "정렬 기준"
+
+#: tmp/widgets/basic.php:489, tmp/widgets/widgets.php:609
+msgid "Post ID"
+msgstr "포스트 ID"
+
+#: tmp/widgets/basic.php:490, tmp/widgets/widgets.php:610
+msgid "Author"
+msgstr "작성자"
+
+#: tmp/widgets/basic.php:491, tmp/widgets/basic.php:492,
+#: tmp/widgets/widgets.php:611, tmp/widgets/widgets.php:612,
+#: tmp/widgets/widgets/testimonial/testimonial.php:15
+msgid "Name"
+msgstr "이름"
+
+#: tmp/widgets/basic.php:493, tmp/widgets/widgets.php:613
+msgid "Date"
+msgstr "날짜"
+
+#: tmp/widgets/basic.php:494, tmp/widgets/widgets.php:614
+msgid "Modified"
+msgstr "변경"
+
+#: tmp/widgets/basic.php:495, tmp/widgets/widgets.php:615
+msgid "Parent"
+msgstr "상위 범주"
+
+#: tmp/widgets/basic.php:496, tmp/widgets/widgets.php:616
+msgid "Random"
+msgstr "임의"
+
+#: tmp/widgets/basic.php:497, tmp/widgets/widgets.php:617
+msgid "Comment Count"
+msgstr "댓글 수"
+
+#: tmp/widgets/basic.php:498, tmp/widgets/widgets.php:618
+msgid "Menu Order"
+msgstr "메뉴 순서"
+
+#: tmp/widgets/basic.php:499
+msgid "Post In Order"
+msgstr "게시물 순서로"
+
+#: tmp/widgets/basic.php:504, tmp/widgets/widgets.php:624
+msgid "Order"
+msgstr "주문"
+
+#: tmp/widgets/basic.php:506, tmp/widgets/widgets.php:627
+msgid "Descending"
+msgstr "내림차순"
+
+#: tmp/widgets/basic.php:507, tmp/widgets/widgets.php:626
+msgid "Ascending"
+msgstr "오름차순"
+
+#: tmp/widgets/basic.php:512, tmp/widgets/widgets.php:633
+msgid "Sticky Posts"
+msgstr "스티커 게시물"
+
+#: tmp/widgets/basic.php:515, tmp/widgets/widgets.php:636
+msgid "Ignore Sticky"
+msgstr "Ignore Sticky"
+
+#: tmp/widgets/basic.php:516, tmp/widgets/widgets.php:637
+msgid "Exclude Sticky"
+msgstr "Sticky 제외"
+
+#: tmp/widgets/basic.php:517, tmp/widgets/widgets.php:638
+msgid "Only Sticky"
+msgstr "Only Sticky"
+
+#: tmp/widgets/basic.php:522
+msgid "Additional "
+msgstr "추가 "
+
+#: tmp/widgets/basic.php:529, tmp/widgets/widgets.php:648
+msgid "Additional query arguments. See 1{query_posts}."
+msgstr "추가 쿼리 인수입니다. 1 {query_posts} 참조 하십시오."
+
+#: tmp/widgets/widgets.php:161
+msgid "This is a legacy widget. "
+msgstr "이것은 기존 위젯 이다. "
+
+#: tmp/widgets/widgets.php:162
+msgid ""
+"Ideally you should move to using widgets from the SiteOrigin Widgets Bundle "
+"instead. "
+msgstr ""
+"이상적으로 당신은 대신 SiteOrigin 위젯 번들에서 도구를 사용 하 여 이동 해야 "
+"합니다. "
+
+#: tmp/widgets/widgets.php:163
+msgid ""
+"It'll be moved to a separate plugin after Page Builder 2.6 is released. "
+msgstr "Page Builder 2.6이 출시 된 후에는 별도의 플러그인으로 이동합니다. "
+
+#: tmp/widgets/widgets.php:220
+msgid "Style"
+msgstr "스타일"
+
+#: tmp/widgets/widgets.php:244
+msgid "%s Style"
+msgstr "%s 스타일"
+
+#: tmp/widgets/widgets.php:644
+msgid "Additional Arguments"
+msgstr "추가 인수"
+
+#: tmp/widgets/widgets.php:705
+msgid "Gallery (PB)"
+msgstr "갤러리 (PB)"
+
+#: tmp/widgets/widgets.php:707
+msgid "Displays a gallery."
+msgstr "갤러리를 표시합니다."
+
+#: tmp/widgets/widgets.php:746
+msgid "Gallery Images"
+msgstr "갤러리 이미지"
+
+#: tmp/widgets/widgets.php:747
+msgid "edit gallery"
+msgstr "갤러리 편집"
+
+#: tmp/widgets/widgets.php:751
+msgid ""
+"Comma separated attachment IDs. Defaults to all current page's attachments."
+msgstr ""
+"쉼표로 구분 된 첨부 파일 ID. 현재 페이지의 모든 첨부 파일을 기본값으로 사용합"
+"니다."
+
+#: tmp/widgets/widgets.php:755
+msgid "Image Size"
+msgstr "이미지 크기"
+
+#: tmp/widgets/widgets.php:758
+msgid "Large"
+msgstr "라지"
+
+#: tmp/widgets/widgets.php:759
+msgid "Medium"
+msgstr "중간"
+
+#: tmp/widgets/widgets.php:760
+msgid "Thumbnail"
+msgstr "썸네일"
+
+#: tmp/widgets/widgets.php:761
+msgid "Full"
+msgstr "전체"
+
+#: tmp/widgets/widgets.php:769
+msgid "Gallery Type"
+msgstr "갤러리 유형"
+
+#: tmp/widgets/widgets.php:774
+msgid "Columns"
+msgstr "열"
+
+#: tmp/widgets/widgets.php:779
+msgid "Link To"
+msgstr "링크 걸기"
+
+#: tmp/widgets/widgets.php:781
+msgid "Attachment Page"
+msgstr "첨부 페이지"
+
+#: tmp/widgets/widgets.php:782
+msgid "File"
+msgstr "파일"
+
+#: tmp/widgets/widgets.php:800
+msgid "Image (PB)"
+msgstr "이미지 (PB)"
+
+#: tmp/widgets/widgets.php:802
+msgid "Displays a simple image."
+msgstr "간단한 이미지를 표시합니다."
+
+#: tmp/widgets/widgets.php:835,
+#: tmp/widgets/widgets/animated-image/animated-image.php:15
+msgid "Image URL"
+msgstr "이미지 URL"
+
+#: tmp/widgets/widgets.php:839, tmp/widgets/widgets/button/button.php:19
+msgid "Destination URL"
+msgstr "대상 URL"
+
+#: tmp/widgets/widgets.php:853
+msgid "Embedded Video (PB)"
+msgstr "임베디드 비디오 (PB)"
+
+#: tmp/widgets/widgets.php:855
+msgid "Embeds a video."
+msgstr "비디오를 포함합니다."
+
+#: tmp/widgets/widgets.php:893
+msgid "Video"
+msgstr "동영상"
+
+#: tmp/widgets/widgets.php:909
+msgid "Self Hosted Video (PB)"
+msgstr "자가 호스팅 비디오 (PB)"
+
+#: tmp/widgets/widgets.php:911
+msgid "A self hosted video player."
+msgstr "자체 호스팅 비디오 플레이어."
+
+#: tmp/widgets/widgets.php:953
+msgid "Video URL"
+msgstr "비디오 URL"
+
+#: tmp/widgets/widgets.php:957
+msgid "Poster URL"
+msgstr "포스터 URL"
+
+#: tmp/widgets/widgets.php:959
+msgid "An image that displays before the video starts playing."
+msgstr "비디오가 재생되기 전에 표시되는 이미지."
+
+#: tmp/widgets/widgets.php:964
+msgid "Auto Play Video"
+msgstr "동영상 자동 재생"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:6
+msgid "Animated Image (PB)"
+msgstr "애니메이션된 이미지 (PB)"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:8
+msgid "An image that animates in when it enters the screen."
+msgstr "화면에 들어갈 때 움직이는 이미지."
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:19
+msgid "Animation"
+msgstr "애니메이션"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:21
+msgid "Fade In"
+msgstr "페이드 인"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:22
+msgid "Slide Up"
+msgstr "슬라이드 업"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:23
+msgid "Slide Down"
+msgstr "아래로 슬라이드"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:24
+msgid "Slide Left"
+msgstr "Slide Right"
+
+#: tmp/widgets/widgets/animated-image/animated-image.php:25
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: tmp/widgets/widgets/button/button.php:6
+msgid "Button (PB)"
+msgstr "갤러리 (PB)"
+
+#: tmp/widgets/widgets/button/button.php:15,
+#: tmp/widgets/widgets/list/list.php:19,
+#: tmp/widgets/widgets/testimonial/testimonial.php:27
+msgid "Text"
+msgstr "텍스트"
+
+#: tmp/widgets/widgets/button/button.php:23,
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:31,
+#: tmp/widgets/widgets/price-box/price-box.php:44,
+#: tmp/widgets/widgets/testimonial/testimonial.php:36
+msgid "Open In New Window"
+msgstr "새 창에서 열기"
+
+#: tmp/widgets/widgets/button/button.php:27
+msgid "Button Alignment"
+msgstr "버튼 정렬"
+
+#: tmp/widgets/widgets/button/button.php:32
+msgid "Justify"
+msgstr "전체 정렬"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:6
+msgid "Call To Action (PB)"
+msgstr "전화 액션 (PB)"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:8
+msgid "A Call to Action block"
+msgstr "액션 블록에 대한 호출"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:19
+msgid "Sub Title"
+msgstr "부제목"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:23,
+#: tmp/widgets/widgets/price-box/price-box.php:36
+msgid "Button Text"
+msgstr "버튼 문구"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:27,
+#: tmp/widgets/widgets/price-box/price-box.php:40
+msgid "Button URL"
+msgstr "버튼 URL"
+
+#: tmp/widgets/widgets/call-to-action/call-to-action.php:37,
+#: tmp/widgets/widgets/price-box/price-box.php:49
+msgid "Button"
+msgstr "버튼"
+
+#: tmp/widgets/widgets/list/list.php:6
+msgid "List (PB)"
+msgstr "목록 (PB)"
+
+#: tmp/widgets/widgets/list/list.php:8,
+#: tmp/widgets/widgets/price-box/price-box.php:8
+msgid "Displays a bullet list of elements"
+msgstr "요소의 글머리 기호 목록이 표시 됩니다"
+
+#: tmp/widgets/widgets/list/list.php:20,
+#: tmp/widgets/widgets/price-box/price-box.php:32
+msgid "Start each new point with an asterisk (*)"
+msgstr "필수 항목은 별표 (*) 로 표시됩니다"
+
+#: tmp/widgets/widgets/price-box/price-box.php:6
+msgid "Price Box (PB)"
+msgstr "가격 상자 (PB)"
+
+#: tmp/widgets/widgets/price-box/price-box.php:19
+msgid "Price"
+msgstr "가격"
+
+#: tmp/widgets/widgets/price-box/price-box.php:23
+msgid "Per"
+msgstr "당"
+
+#: tmp/widgets/widgets/price-box/price-box.php:27
+msgid "Information Text"
+msgstr "정보 텍스트"
+
+#: tmp/widgets/widgets/price-box/price-box.php:31
+msgid "Features Text"
+msgstr "특성 텍스트"
+
+#: tmp/widgets/widgets/price-box/price-box.php:50
+msgid "Feature List"
+msgstr "기능 목록"
+
+#: tmp/widgets/widgets/testimonial/testimonial.php:6
+msgid "Testimonial (PB)"
+msgstr "평가 (PB)"
+
+#: tmp/widgets/widgets/testimonial/testimonial.php:8
+msgid "Displays a bullet list of points"
+msgstr "포인트의 글머리 기호 목록이 표시 됩니다"
+
+#: tmp/widgets/widgets/testimonial/testimonial.php:19
+msgid "Location"
+msgstr "위치"
+
+#: tmp/widgets/widgets/testimonial/testimonial.php:23
+msgid "Image"
+msgstr "이미지"
+
+#: tmp/widgets/widgets/testimonial/testimonial.php:32
+msgid "URL"
+msgstr "URL"
