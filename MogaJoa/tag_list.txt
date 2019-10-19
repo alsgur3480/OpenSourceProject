@@ -15,13 +15,25 @@
 </script>
 <body>
     <div id = "tag_cancel_btn">
-        <button id="h�̽��͸�" style="display:none">�̽��͸�</button> <button id="h����" style="display:none">����</button> <button id="h����" style="display:none">����</button> <button id="h�α׶���ũ" style="display:none">�α׶���ũ</button> <button id="h����" style="display:none">����</button>
+        <button id="h미스터리" style="display:none">미스터리</button>
+        <button id="h협동" style="display:none">협동</button>
+        <button id="h생존" style="display:none">생존</button>
+        <button id="h로그라이크" style="display:none">로그라이크</button>
+        <button id="h리듬" style="display:none">리듬</button>
     </div>
     <p>--------------------------------------------------------------------------------------------------</p>
     <div id = "tag_btn">
-        <button id = "�̽��͸�" onclick = "go('h�̽��͸�')">�̽��͸�</button> <button id = "����" onclick = "go('h����')">����</button> <button id = "����" onclick = "go('h����')">����</button> <button id = "�α׶���ũ" onclick = "go('h�α׶���ũ')">�α׶���ũ</button> <button id = "����" onclick = "go('h����')">����</button>
-
-        <button >�±�6</button> <button >�±�7</button> <button >�±�8</button> <button >�±�9</button> <button >�±�10</button>
+        <button id = "미스터리" onclick = "go('h미스터리')">미스터리</button>
+        <button id = "협동" onclick = "go('h협동')">협동</button>
+        <button id = "생존" onclick = "go('h생존')">생존</button>
+        <button id = "로그라이크" onclick = "go('h로그라이크')">로그라이크</button>
+        <button id = "리듬" onclick = "go('h리듬')">리듬</button>
+        <p></p>
+        <button >태그6</button>
+        <button >태그7</button>
+        <button >태그8</button>
+        <button >태그9</button>
+        <button >태그10</button>
     </div>
 <body>
 <html>
